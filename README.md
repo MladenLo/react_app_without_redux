@@ -1,6 +1,6 @@
 REACT APP WITHOUT REDUX - this is very simple project that is similar to blog websites. Application fetch data from https://jsonplaceholder.typicode.com/.
 
-This application is will be followed by same application that will use Redux. You are free to copy, change or whatever you want to do.
+This application will be followed by same application that will use Redux. You are free to copy, change or whatever you want to do.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
