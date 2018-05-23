@@ -1,0 +1,9 @@
+.post {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.post__title {
+    font-size: 3em;
+    margin: 1em 0;
+}

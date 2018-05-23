@@ -1,0 +1,10 @@
+.post {
+    padding: 1em;
+    background-color: bisque;
+    box-shadow: 2px 2px 2px black;
+    margin-bottom: 1em;
+}
+.post__title {
+    font-size: 2em;
+    margin-bottom: 1em;
+}

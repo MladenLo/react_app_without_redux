@@ -1,0 +1,11 @@
+.main-header {
+    background-color: #222;
+    padding: 20px;
+    color: white;
+    margin-bottom: 1em;
+  }
+  
+  .main-header__title {
+    font-size: 3.5em;
+    margin-bottom: 1em;
+  }

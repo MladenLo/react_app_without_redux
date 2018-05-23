@@ -1,0 +1,21 @@
+.main-menu {
+    padding: 0;
+}
+
+.main-menu__list {
+    list-style-type: none;
+}
+.main-menu__item {
+    display: inline-block;
+    margin-right: 0.5em;
+}
+.main-menu__link {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+    background-color: aliceblue;
+    transition: all 0.2s;
+}
+.main-menu__link:hover {
+    background-color: aqua;
+}
